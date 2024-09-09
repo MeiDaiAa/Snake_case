@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\meida\Desktop\Snake_case\hunger_snake\main.cpp(13,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\meida\Desktop\Snake_case\hunger_snake\main.cpp(168,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  hunger_snake.vcxproj -> C:\Users\meida\Desktop\Snake_case\x64\Debug\hunger_snake.exe
